@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; background: #f4f4f4; color: #333; }
+header { background: #000; color: #fff; padding: 20px; text-align: center; }
+.cars { display: flex; flex-wrap: wrap; justify-content: space-around; padding: 20px; }
+.car { width: 30%; margin-bottom: 20px; text-align: center; }
+.car img { width: 100%; border-radius: 8px; }
